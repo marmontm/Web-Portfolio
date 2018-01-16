@@ -13,6 +13,6 @@ To enable your rights, please just mention the original author with his Github l
 
 Course and lectures handled by **Veikko Tapaninen** ([@oamk-veikko](https://github.com/oamk-veikko))
 
-**Maxime MARMONT** ([@marmontm](https://github.com/marmontm)), exchange student in Oulu UAS
+Code by **Maxime MARMONT** ([@marmontm](https://github.com/marmontm)), exchange student in Oulu UAS
 
 January 2018
