@@ -1,54 +1,86 @@
+@font-face
+{
+    font-family: "San Francisco Regular";
+    src: url('../fonts/SF-Pro-Display/SF-Pro-Display-Regular.otf');
+}
+
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #485c9b;
 }
 
 
-/* Portrait */
-#main-bg {    
+/* Landscape */
+#main-bg {   
+    /* Universal properties */
     position: absolute;
     z-index: -1;
     
-    height: 100%;
-    width: auto;
+    -webkit-filter: blur(5px); /* Safari */
+    filter: blur(10px);
     
-    top: auto;
-    left: 20%;
-    transform: translate(-20%, 0%);
+    /* Landscape mode */
+    height: auto;
+    width: 100%;
+
+    top: 20%;
+    left: auto;
+    transform: translate(0%, -20%);
 }
 
-/* Landscape */
-@media screen and (min-aspect-ratio: 3/2) {
+/* Portrait */
+@media screen and (max-aspect-ratio: 3/2) {
     #main-bg {
-        height: auto;
-        width: 100%;
-        
-        top: 20%;
-        left: auto;
-        transform: translate(0%, -20%);
+        height: 100%;
+        width: auto;
+
+        top: auto;
+        left: 20%;
+        transform: translate(-20%, 0%);
     }
 }
 
+
+/* Universal */
 #contents {
     position: absolute;
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: "San Francisco Regular";
 }
 
 .text {
-    color: #ffffff;
+    color: #000000;
+    font-size: 15pt;
 }
 
 
 
+@keyframes blur-fade {
+    from { filter: blur(0px); }
+    to { filter: blur(10px); }
+}
 
+@-webkit-keyframes blur-fade {
+    from { filter: blur(0px); }
+    to { filter: blur(10px); }
+}
 
+.blur-fade-in {
+    animation: blur-fade 4s 1;
+    animation-delay: 0.25s;
+    -webkit-animation: blur-fade 4s 1;
+    -webkit-animation-delay: 0.25s;
+}
 
 
 /* EXAMPLE STUFF */
 
+
+/* Animation: fade blink */
 @keyframes fade {
     from { opacity: 1.0; }
     50% { opacity: 0.4; }
