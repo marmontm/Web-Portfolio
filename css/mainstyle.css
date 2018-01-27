@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* Portrait */
+#main-bg {    
+    position: absolute;
+    z-index: -1;
+    
+    height: 100%;
+    width: auto;
+    
+    top: auto;
+    left: 20%;
+    transform: translate(-20%, 0%);
+}
+
+/* Landscape */
+@media screen and (min-aspect-ratio: 3/2) {
+    #main-bg {
+        height: auto;
+        width: 100%;
+        
+        top: 20%;
+        left: auto;
+        transform: translate(0%, -20%);
+    }
+}
+
+#contents {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.text {
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+/* EXAMPLE STUFF */
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
