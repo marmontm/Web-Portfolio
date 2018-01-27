@@ -70,7 +70,6 @@ body {
 }
 
 .text {
-    background-color: transparent;
     margin-bottom: 8pt;
     color: #ffffff;
     text-shadow: 0px 5px 20px rgba(50, 50, 50, 1);
@@ -117,6 +116,18 @@ body {
     box-shadow: 0px 5px 40px 5px rgba(0, 0, 0, 0.2);
     transition: all;
     transition-duration: 0.2s;
+}
+
+
+.imgCopyright {
+    margin-bottom: 0pt;
+    color: rgba(255, 255, 255, 0.5);
+    
+    font-size: 8pt;
+    position: fixed;
+    text-align: center;
+    right: 2pt;
+    bottom: 2pt;
 }
 
 
