@@ -1,0 +1,158 @@
+@charset utf-8;
+
+@font-face
+{
+    font-family: "San Francisco Regular";
+    src: url('../fonts/SF-Pro-Display/SF-Pro-Display-Regular.otf');
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #485c9b;
+}
+
+
+
+/* Landscape / desktop */
+#main-bg {   
+    /* Universal properties */
+    /* Position: 'fixed' to fix the image or 'absolute' to scroll image with text */
+    position: fixed;
+    z-index: -1;
+    
+    -webkit-filter: blur(5px); /* Safari */
+    filter: blur(10px);
+    
+    /* Landscape mode */
+    height: auto;
+    width: 100%;
+
+    top: 20%;
+    left: auto;
+    transform: translate(0%, -20%);
+}
+
+
+
+
+/* Universal */
+#contents {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: "San Francisco Regular";
+}
+
+
+.idcard {
+    display: flex;
+    flex-direction: column;
+    max-width: 80%;
+    padding: 20pt 4pt;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -25%);
+    align-items: center;
+    text-align: center;
+}
+
+.profilePict {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20pt;
+}
+
+.text {
+    background-color: transparent;
+    margin-bottom: 8pt;
+    color: #ffffff;
+    text-shadow: 0px 5px 20px rgba(50, 50, 50, 1);
+}
+
+.profileName {
+    font-size: 36pt;
+}
+
+.subject {
+    font-size: 12pt;
+}
+
+.link {
+    text-decoration: none;
+    margin: 16pt 0pt;
+    padding-bottom: 4pt;
+    border-bottom: 2px solid #777777;
+    transition: all;
+    transition-duration: 0.2s;
+}
+
+.link:hover, .link:focus {
+    border-bottom-color: #ffffff;
+    transition: all;
+    transition-duration: 0.2s;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 14pt;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid #ffffff;
+    padding: 10pt 25pt;
+    margin: 8pt 0pt;
+    transition: all;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+
+.button:hover, .button:focus {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid transparent;
+    box-shadow: 0px 5px 40px 5px rgba(0, 0, 0, 0.2);
+    transition: all;
+    transition-duration: 0.2s;
+}
+
+
+@keyframes blur-fade {
+    from { filter: blur(0px); }
+    to { filter: blur(10px); }
+}
+
+@-webkit-keyframes blur-fade {
+    from { filter: blur(0px); }
+    to { filter: blur(10px); }
+}
+
+.blur-fade-in {
+    animation: blur-fade 4s 1;
+    animation-delay: 0.25s;
+    -webkit-animation: blur-fade 4s 1;
+    -webkit-animation-delay: 0.25s;
+}
+
+
+/* EXAMPLE STUFF */
+
+
+/* Animation: fade blink */
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
