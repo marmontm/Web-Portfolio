@@ -1,0 +1,29 @@
+var connection = new WebSocket("wss://obscure-waters-98157.herokuapp.com");
+
+
+connection.onmessage = function(message) {
+    // console.log(message.data);
+    var chat = document.getElementById("chatConsole-text");
+    chat.innerHTML += "<br>" + message.data;
+    
+    var chatConsole = document.getElementById("chatConsole");
+    chatConsole.scrollTop = chatConsole.scrollHeight;
+}
+
+connection.onopen = function() {
+    var connectionstate = document.getElementById("connectionState");
+    connectionstate.innerHTML = "Connected."
+    connectionstate.style.color = "#459132"
+}
+
+
+
+function sendText() {
+    var inputChat = document.getElementById("input-textMessage");
+    this.connection.send(inputChat.value);
+    inputChat.value = null;
+}
+
+function sendEmoji() {
+    this.connection.send("LOGO");
+}

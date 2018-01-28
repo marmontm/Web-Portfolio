@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.itemlist {
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+}
+
+.labitem {
+    /* box */
+    background-color: #cacaca;
+    border: 1px solid #404040;
+    padding: 6pt 12pt;
+    margin: 8pt 8pt;
+
+    /* text */
+    color: #404040;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
+.labitem:hover, .labitem:focus {
+    background-color: #aaaaaa;
+    border-color: transparent;
+}
