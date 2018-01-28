@@ -1,4 +1,4 @@
-@charset utf-8;
+@charset "UTF-8";
 
 @font-face
 {
@@ -10,6 +10,11 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: #485c9b;
+}
+
+a {
+    /* Remove automatic underline for links */
+    text-decoration: none;
 }
 
 
@@ -84,7 +89,6 @@ body {
 }
 
 .link {
-    text-decoration: none;
     margin: 16pt 0pt;
     padding-bottom: 4pt;
     border-bottom: 2px solid #777777;
@@ -92,7 +96,8 @@ body {
     transition-duration: 0.2s;
 }
 
-.link:hover, .link:focus {
+.link:hover,
+.link:focus {
     border-bottom-color: #ffffff;
     transition: all;
     transition-duration: 0.2s;

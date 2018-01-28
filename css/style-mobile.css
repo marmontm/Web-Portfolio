@@ -1,4 +1,4 @@
-@charset utf-8;
+@charset "UTF-8";
 
 /* Portrait */
 @media screen and (max-aspect-ratio: 3/2) {
