@@ -10,5 +10,8 @@ var personView = {
 
             itemList.innerHTML += "<input class=\"person-item\" id=\"item" + myId + "\" type=\"checkbox\" value=\"" + myId + "\"><label for=\"item" + myId + "\">" + myName + "</label><br>";
         }
+        console.log(new Date().toISOString() + " > UI updated");
     }
 }
+
+addEventListener("onDataChange", personView.render);

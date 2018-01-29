@@ -2,11 +2,13 @@ var newPersonInput = document.getElementById("person-name");
 var personItems = document.getElementsByClassName("person-item");
 
 var personController = {
+    dataUpdated: new Event("onDataChange"),
+
     addPerson: function () {
         if (newPersonInput.value != "") {
             personModel.addItem(newPersonInput.value);
-            this.updateUI();
             newPersonInput.value = "";
+            dispatchEvent(this.dataUpdated);
         }
     },
 
@@ -16,10 +18,6 @@ var personController = {
                 personModel.delItem(personItems[i].value);
             }
         }
-        this.updateUI();
-    },
-
-    updateUI: function () {
-        personView.render();
+        dispatchEvent(this.dataUpdated);
     }
 }
