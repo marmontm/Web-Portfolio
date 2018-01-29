@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+* {
+    /* Text */
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+}
+
+/* Default: Mobile phones */
+body {
+    background-color: #dfdfdf;
+}
+
+h1 {
+    /* Box */
+    background-color: #aaaaaa;
+    padding: 4pt;
+    margin: 8pt 0;
+
+    /* Text */
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.contents {
+    /* Box */
+    padding: 8pt 16pt;
+}
+
+
+h2 {
+    /* Box */
+    margin-bottom: 4pt;
+
+    /* Text */
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.subtitle {
+    /* Box */
+    margin-bottom: 8pt;
+
+    /* Text */
+    font-size: 10pt;
+    color: #505050;
+}
+
+.summary {
+    /* Box */
+    margin-bottom: 16pt;
+
+    /* Text */
+    font-size: 12pt;
+    text-align: justify;
+}
+
+/* Tablets */
+@media only screen and (min-width: 600px){
+
+}
+
+/* Desktop */
+@media only screen and (min-width: 768px){
+
+}
