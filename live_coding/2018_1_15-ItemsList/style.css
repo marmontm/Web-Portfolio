@@ -1,0 +1,70 @@
+body {
+  background-color: #000000;
+  color:#FFFFFF;
+}
+
+.mainContent {
+  margin-left: 4em;
+  color:#FF0000;
+}
+
+.greenBG{
+  background-color: #00FF00;
+}
+
+.yellowBG{
+  background-color: #FFFF00;
+}
+
+#topBar {
+  color: #00FF00;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    font-size: 12pt;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    border-color: white;
+    border-width: 2px;
+    transition-duration: 0.15s;
+}
+
+button:hover, button:focus {
+    background-color: white;
+    color: black;
+    transition-duration: 0.15s;
+}
+
+input {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 12pt;
+    color: #777777;
+    transition-duration: 0.15s;
+    background-color: transparent;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid #777777;
+}
+
+input::placeholder{
+    color: #404040;
+}
+
+input:hover{
+    color: white;
+    transition-duration: 0.15s;
+}
+
+input:focus{
+    color: white;
+    border-bottom: 2px solid white;
+    transition-duration: 0.15s;
+}

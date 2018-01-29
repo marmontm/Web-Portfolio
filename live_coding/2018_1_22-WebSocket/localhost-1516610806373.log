@@ -1,0 +1,65 @@
+var connection = new WebSocket("wss://obscure-waters-98157.herokuapp.com")
+undefined
+connection.readyState
+0
+VM295:164 WebSocket connection to 'wss://obscure-waters-98157.herokuapp.com/' failed: Connection closed before receiving a handshake response
+WrappedWebSocket @ VM295:164
+(anonymous) @ VM338:1
+var connection = new WebSocket("wss://echo.websocket.org")
+undefined
+connection.readyState
+1
+conenction.send("Hello");
+VM391:1 Uncaught ReferenceError: conenction is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM391:1
+connection.send("Hello");
+undefined
+connection.onmessage = function(message){alert(message.data);}
+ƒ (message){alert(message.data);}
+connection.send("Hello");
+undefined
+connection.onmessage = function(message){console.lo(message.data);}
+ƒ (message){console.lo(message.data);}
+connection.onmessage = function(message){console.log(message.data);}
+ƒ (message){console.log(message.data);}
+connection.send("Hello");
+undefined
+VM540:1 Hello
+var connection = new WebSocket("wss://obscure-waters-98157.herokuapp.com")
+undefined
+connection.readyState
+0
+var connection = new WebSocket("wss://obscure-waters-98157.herokuapp.com");
+undefined
+connection.readyState
+0
+connection.readyState
+1
+connection.send("Hello");
+undefined
+connection.send("Hello");
+undefined
+connection.send("Hello");
+undefined
+connection.send("Error404 Not found");
+undefined
+localStorage
+Storage {length: 0}
+sessionStorage
+Storage {length: 0}
+localStorage.setItem("userName", "k7mama03@students.oamk.fi")
+undefined
+localStorage
+Storage {userName: "k7mama03@students.oamk.fi", length: 1}
+sessionStorage
+Storage {length: 0}
+localStorage.setItem("name", "MaxLaBuche")
+undefined
+sessionStorage
+Storage {length: 0}
+localStorage
+Storage {name: "MaxLaBuche", userName: "k7mama03@students.oamk.fi", length: 2}length: 2name: "MaxLaBuche"userName: "k7mama03@students.oamk.fi"__proto__: Storageclear: ƒ clear()getItem: ƒ getItem()key: ƒ key()length: (...)removeItem: ƒ removeItem()setItem: ƒ setItem()constructor: ƒ Storage()Symbol(Symbol.toStringTag): "Storage"get length: ƒ ()__proto__: Object
+Navigated to http://localhost:8000/
+localStorage
+Storage {name: "MaxLaBuche", userName: "k7mama03@students.oamk.fi", length: 2}
