@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="Lab3.2: MVC add/remove person works (without local storage)">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/.idea/Lab3.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/css/mainstyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/js/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-1/js/scripts.js.bak" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/css/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/js/personController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/js/personModel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/js/personView.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab3-2/notes.md" />
+    <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab1/css/styles.css" afterPath="$PROJECT_DIR$/Labs/Lab1/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab1/index.html" afterPath="$PROJECT_DIR$/Labs/Lab1/index.html" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab2/css/styles.css" afterPath="$PROJECT_DIR$/Labs/Lab2/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/.idea/Lab3.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/css/mainstyle.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/js/scripts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3/js/scripts.js.bak" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labs/index.html" afterPath="$PROJECT_DIR$/Labs/index.html" />
+      <change beforePath="$PROJECT_DIR$/Labs/Lab3-2/css/styles.css" afterPath="$PROJECT_DIR$/Labs/Lab3-2/css/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,76 +13,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-1/js/scripts.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="eventListener.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="personModel.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personModel.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="personView.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personView.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="personController.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personController.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -161,6 +91,7 @@
         <option value="$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js" />
         <option value="$PROJECT_DIR$/Labs/Lab3-2/index.html" />
         <option value="$PROJECT_DIR$/Labs/Lab3-2/js/personController.js" />
+        <option value="$PROJECT_DIR$/Labs/Lab3-2/css/styles.css" />
       </list>
     </option>
   </component>
@@ -218,13 +149,27 @@
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="live_coding" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="live_coding" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="2018_1_29-Canvas" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3-2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3-2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3-2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -280,7 +225,7 @@
       <workItem from="1517213757014" duration="971000" />
       <workItem from="1517215072341" duration="7163000" />
       <workItem from="1517229622809" duration="402000" />
-      <workItem from="1517251967989" duration="6727000" />
+      <workItem from="1517251967989" duration="7161000" />
     </task>
     <task id="LOCAL-00001" summary="Add Labs 1-2-3">
       <created>1517165422846</created>
@@ -324,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517222782373</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lab3.2: MVC add/remove person works (without local storage)">
+      <created>1517261438287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517261438288</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26134000" />
+    <option name="totallyTimeSpent" value="26568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -336,7 +288,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -623,7 +575,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab1/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -631,10 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personView.js">
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -655,34 +615,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab1/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personController.js">
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/personView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding />
         </state>
       </provider>
