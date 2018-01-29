@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_08-Intro/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_08-Intro/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_08-Intro/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/shoppingItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/shoppingModel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_15-ItemsList/viewController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_22-WebSocket/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_22-WebSocket/localhost-1516610806373.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/Lab2/images/A350-XWB.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Labs/index.html" afterPath="$PROJECT_DIR$/Labs/index.html" />
+      <change beforePath="$PROJECT_DIR$/Labs/Lab2/css/styles.css" afterPath="$PROJECT_DIR$/Labs/Lab2/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/Labs/Lab2/index.html" afterPath="$PROJECT_DIR$/Labs/Lab2/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,48 +15,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-                  <folding>
-                    <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/styles.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,8 +66,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Labs/Lab2/notes.md" />
         <option value="$PROJECT_DIR$/Labs/Lab2/css/reset.css" />
-        <option value="$PROJECT_DIR$/Labs/Lab2/index.html" />
-        <option value="$PROJECT_DIR$/Labs/Lab2/css/styles.css" />
         <option value="$PROJECT_DIR$/Labs/index.html" />
         <option value="$PROJECT_DIR$/live_coding/2018_1_29/index.html" />
         <option value="$PROJECT_DIR$/live_coding/2018_1_29-Canva/scripts.js" />
@@ -108,6 +74,8 @@
         <option value="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/styles.css" />
         <option value="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/index.html" />
         <option value="$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js" />
+        <option value="$PROJECT_DIR$/Labs/Lab2/index.html" />
+        <option value="$PROJECT_DIR$/Labs/Lab2/css/styles.css" />
       </list>
     </option>
   </component>
@@ -169,6 +137,18 @@
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="live_coding" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -196,6 +176,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Labs/Lab2/images" />
       <recent name="$PROJECT_DIR$/live_coding/2018_1_29-Canva" />
       <recent name="$PROJECT_DIR$/Labs/Lab2" />
     </key>
@@ -229,7 +210,7 @@
       <workItem from="1517164160793" duration="5978000" />
       <workItem from="1517207146226" duration="4619000" />
       <workItem from="1517213757014" duration="971000" />
-      <workItem from="1517215072341" duration="2165000" />
+      <workItem from="1517215072341" duration="4361000" />
     </task>
     <task id="LOCAL-00001" summary="Add Labs 1-2-3">
       <created>1517165422846</created>
@@ -259,11 +240,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517211948279</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add 29.1 live coding">
+      <created>1517217605367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517217605367</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14007000" />
+    <option name="totallyTimeSpent" value="16203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="0" />
@@ -300,7 +288,8 @@
     <MESSAGE value="Add Labs 1-2-3" />
     <MESSAGE value="Edit Lab2" />
     <MESSAGE value="Lab2: Add Menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2: Add Menu" />
+    <MESSAGE value="Add 29.1 live coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 29.1 live coding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -312,7 +301,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -415,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/Lab1/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -443,22 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab2/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -471,6 +437,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -488,15 +462,58 @@
         <state relative-caret-position="210">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js">
+    <entry file="file://$PROJECT_DIR$/images/A350-XWB_COPYRIGHT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab2/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="436">
+          <caret line="100" column="22" lean-forward="false" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3/css/mainstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
           <folding />
         </state>
       </provider>
