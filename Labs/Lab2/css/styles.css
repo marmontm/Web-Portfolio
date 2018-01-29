@@ -6,16 +6,20 @@
     line-height: 1.2;
 }
 
-/* Default: Mobile phones */
+/* Default: Mobile phones
+ * RWD
+ */
 body {
     background-color: #dfdfdf;
+    margin: 8pt;
 }
+
 
 h1 {
     /* Box */
     background-color: #aaaaaa;
     padding: 4pt;
-    margin: 8pt 0;
+    margin-bottom: 8pt;
 
     /* Text */
     text-transform: uppercase;
@@ -23,9 +27,38 @@ h1 {
     font-size: 20pt;
 }
 
+.layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu {
+    /* Box */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-bottom: 4pt;
+    margin-bottom: 8pt;
+    border-bottom: 1px solid #505050;
+
+    /* Text */
+    text-align: center;
+}
+
+.link {
+    /* Box */
+    padding: 4pt 0;
+
+    /* Text */
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #000;
+}
+
 .contents {
     /* Box */
-    padding: 8pt 16pt;
+    width: 100%;
 }
 
 
@@ -57,12 +90,25 @@ h2 {
     text-align: justify;
 }
 
-/* Tablets */
-@media only screen and (min-width: 600px){
 
-}
+/* Desktop
+ * RWD
+ */
+@media only screen
+       and (min-width: 768px)
+       and (min-aspect-ratio: 1/1)
+{
+    .menu {
+        /* Box */
+        width: fit-content;
+        border-bottom: none;
+        margin-right: 8pt;
 
-/* Desktop */
-@media only screen and (min-width: 768px){
+        /* Text */
+        text-align: left;
+    }
 
+    .layout {
+        flex-direction: row;
+    }
 }
