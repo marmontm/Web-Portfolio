@@ -51,3 +51,4 @@ input.addEventListener("keyup", function(event) {
         // Trigger the button element with a click
         document.getElementById("btn-send").click();
     }
+});
