@@ -15,7 +15,7 @@ body {
     border-radius: 4px;
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:768px) {
     .assign {
         background-color: #ffffff;
         padding: 10px 20px;
