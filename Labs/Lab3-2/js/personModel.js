@@ -47,5 +47,11 @@ var personModel = {
 
         // Log action into console
         console.log(new Date().toISOString() + " > Item deleted: #" + itemId + ":\'" + nameFound + "\'");
+    },
+
+    clearStorage: function () {
+        if(confirm("Do you want to reset data?\nThis action is irreversible.")){
+            localStorage.clear();
+        }
     }
 }

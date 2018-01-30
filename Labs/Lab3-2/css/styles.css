@@ -26,22 +26,30 @@ input {
 
 .button {
     /* box */
-    background-color: #cacaca;
-    border: 1px solid #1c1c1c;
+    background-color: #024381;
+    border: 1px solid transparent;
     padding: 6pt 12pt;
     margin: 4pt;
     cursor: pointer;
 
     /* text */
-    color: #1c1c1c;
+    color: #fff;
     font-size: 14pt;
     text-decoration: none;
+
+    /* Animation */
+    transition: all;
+    transition-duration: .1s;
 }
 
 .button:hover,
 .button:focus {
-    background-color: #aaaaaa;
-    border-color: transparent;
+    /* Box */
+    border-color: #fff;
+
+    /* Animation */
+    transition: all;
+    transition-duration: .1s;
 }
 
 #list {
@@ -55,4 +63,9 @@ input {
     width: 12pt;
     height: 12pt;
     margin-right: 8pt;
+}
+
+.warn {
+    /* Box */
+    background-color: #810400;
 }

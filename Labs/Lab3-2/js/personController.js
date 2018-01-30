@@ -20,6 +20,11 @@ var personController = {
         dispatchEvent(dataUpdated);
     },
 
+    clearList: function () {
+        personModel.clearStorage();
+        dispatchEvent(dataUpdated);
+    },
+
     firstRun: function () {
         this.
         personModel.init();
