@@ -15,3 +15,4 @@ var personView = {
 }
 
 addEventListener("onDataChange", personView.render);
+addEventListener("load", personView.render);
