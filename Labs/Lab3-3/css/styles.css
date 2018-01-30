@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #1c1c1c;
+    color: #ffffff;
+}
+
+.button {
+    /* box */
+    background-color: #024381;
+    border: 1px solid transparent;
+    padding: 6pt 12pt;
+    margin: 4pt;
+    cursor: pointer;
+    width: 40pt;
+
+    /* text */
+    color: #fff;
+    font-size: 14pt;
+    text-decoration: none;
+    text-align: center;
+
+    /* Animation */
+    transition: all;
+    transition-duration: .1s;
+}
+
+.button:hover,
+.button:focus {
+    /* Box */
+    border-color: #fff;
+
+    /* Animation */
+    transition: all;
+    transition-duration: .1s;
+}
+
+.warn {
+    /* Box */
+    background-color: #810400;
+}
+
+.controls{
+    display: inline-flex;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Lab3.3 - Audio element</title>
+
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    </head>
+    <body>
+    <h1>Lab3.3</h1>
+    <h2>Audio element</h2>
+
+    <p>Radio stream</p>
+
+    <audio id="audio-stream" preload="auto">
+        <source src="http://stream.basso.fi:8000/stream" type="audio/mpeg">
+        <p>Your browser doesn't support HTML5 audio</p>
+    </audio>
+
+    <div class="controls">
+        <div class="button" id="btn-play" tabindex="1">Play</div>
+        <div class="button warn" id="btn-pause" tabindex="2">Pause</div>
+    </div>
+
+    <script type="text/javascript" src="js/scripts.js"></script>
+    </body>
+</html>
