@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab3-1/css/styles.css" afterPath="$PROJECT_DIR$/Labs/Lab3-1/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/Labs/Lab3-2/index.html" afterPath="$PROJECT_DIR$/Labs/Lab3-2/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +15,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="131" lean-forward="false" selection-start-line="19" selection-start-column="131" selection-end-line="19" selection-end-column="131" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Labs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -80,11 +100,11 @@
         <option value="$PROJECT_DIR$/Labs/Lab3-2/js/personView.js" />
         <option value="$PROJECT_DIR$/Labs/Lab3-2/js/personModel.js" />
         <option value="$PROJECT_DIR$/Labs/Lab3-2/js/personController.js" />
-        <option value="$PROJECT_DIR$/Labs/Lab3-2/index.html" />
         <option value="$PROJECT_DIR$/Labs/Lab3-2/css/styles.css" />
         <option value="$PROJECT_DIR$/Labs/Lab3-1/js/scripts.js" />
         <option value="$PROJECT_DIR$/Labs/Lab3-1/index.html" />
         <option value="$PROJECT_DIR$/Labs/Lab3-1/css/styles.css" />
+        <option value="$PROJECT_DIR$/Labs/Lab3-2/index.html" />
       </list>
     </option>
   </component>
@@ -149,13 +169,13 @@
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Lab3-1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3-2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Lab3-1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3-2" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -218,7 +238,7 @@
       <workItem from="1517268935517" duration="2167000" />
       <workItem from="1517293492062" duration="4613000" />
       <workItem from="1517298770687" duration="1014000" />
-      <workItem from="1517301177412" duration="3013000" />
+      <workItem from="1517301177412" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="Add Labs 1-2-3">
       <created>1517165422846</created>
@@ -353,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517304848192</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lab3.1: Lite improvements">
+      <created>1517305011392</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1517305011392</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40644000" />
+    <option name="totallyTimeSpent" value="40907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -687,14 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/js/eventListener.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -738,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/Lab2/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -778,10 +789,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab3-2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="131" lean-forward="false" selection-start-line="19" selection-start-column="131" selection-end-line="19" selection-end-column="131" />
           <folding />
         </state>
       </provider>
