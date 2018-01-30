@@ -13,13 +13,20 @@ connection.onmessage = function(message) {
 
 connection.onopen = function() {
     connectionstate.innerHTML = "Connected";
-    connectionstate.className = "ready"
+    connectionstate.className = "ready";
+}
+
+connection.onerror = function () {
+    connectionstate.innerHTML = "Waiting...";
+    connectionstate.className = "waiting";
 }
 
 
 function sendText() {
-    connection.send(inputChat.value);
-    inputChat.value = null;
+    if (inputChat.value != "") {
+        connection.send(inputChat.value);
+        inputChat.value = null;
+    }
 }
 
 function sendEmoji() {
