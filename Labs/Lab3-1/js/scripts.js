@@ -38,12 +38,8 @@ function sendEmoji() {
 *
 */
 
-
-// Get the input field
-var input = document.getElementById("input-textMessage");
-
 // Execute a function when the user releases a key on the keyboard
-input.addEventListener("keyup", function(event) {
+inputChat.addEventListener("keyup", function(event) {
     // Cancel the default action, if needed
     event.preventDefault();
     // Number 13 is the "Enter" key on the keyboard
