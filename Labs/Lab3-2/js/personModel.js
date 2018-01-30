@@ -1,24 +1,51 @@
 var personModel = {
     idCount: 0,
-    personList: new Array(),
+    idCountStr: "idcount",
+    itemIdPrefix: "item",
+
+    init: function(){
+        if (typeof(Storage) !== "undefined") {
+            if ((localStorage.getItem(this.idCountStr) != null) && (localStorage.getItem(this.idCountStr) >= 0)) {
+                this.idCount = localStorage.getItem(this.idCountStr);
+            }
+            else {
+                localStorage.setItem(this.idCountStr, this.idCount.toString());
+            }
+        } else {
+            alert("Access to local storage failed. Unable to read/write data.");
+        }
+
+
+    },
+
+    getIdCount: function () {
+        return this.idCount;
+    },
+
+    getItem: function(itemId){
+        return localStorage.getItem(this.itemIdPrefix + itemId.toString());
+    },
 
     addItem: function(itemName){
-        var newItem = {
-            mId: this.idCount,
-            mName: itemName
-        };
-        this.personList.push(newItem);
-        console.log(new Date().toISOString() + " > Item added: #" + newItem.mId + ":\'" + newItem.mName + "\'");
+        // Add item to storage
+        localStorage.setItem(this.itemIdPrefix + this.idCount.toString(), itemName);
+
+        // Log action into console
+        console.log(new Date().toISOString() + " > Item added: #" + this.idCount + ":\'" + itemName + "\'");
+
+        // Increment ID count
         this.idCount++;
+        localStorage.setItem(this.idCountStr, this.idCount.toString());
     },
 
     delItem: function(itemId){
-        for (var i = 0; i < this.personList.length; i++){
-            if (this.personList[i].mId == itemId){
-                var nameFound = this.personList[i].mName;
-                this.personList.splice(i, 1);
-                console.log(new Date().toISOString() + " > Item deleted: #" + itemId + ":\'" + nameFound + "\'");
-            }
-        }
+        // Get item name for logging
+        var nameFound = localStorage.getItem(this.itemIdPrefix + itemId.toString());
+
+        // Delete item from storage
+        localStorage.removeItem(this.itemIdPrefix + itemId.toString());
+
+        // Log action into console
+        console.log(new Date().toISOString() + " > Item deleted: #" + itemId + ":\'" + nameFound + "\'");
     }
 }

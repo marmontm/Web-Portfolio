@@ -3,16 +3,18 @@ var itemList = document.getElementById("list");
 var personView = {
     render: function () {
         itemList.innerHTML = null;
-        for (var i = 0; i < personModel.personList.length; i++)
-        {
-            var myId = personModel.personList[i].mId;
-            var myName = personModel.personList[i].mName;
 
-            itemList.innerHTML += "<input class=\"person-item\" id=\"item" + myId + "\" type=\"checkbox\" value=\"" + myId + "\"><label for=\"item" + myId + "\">" + myName + "</label><br>";
+        for (var i = 0; i < personModel.getIdCount(); i++)
+        {
+            var myName = personModel.getItem(i);
+
+            if (myName != null) {
+                itemList.innerHTML += "<input class=\"person-item\" id=\"item" + i + "\" type=\"checkbox\" value=\"" + i + "\"><label for=\"item" + i + "\">" + myName + "</label><br>";
+            }
+
         }
+
         console.log(new Date().toISOString() + " > UI updated");
     }
 }
 
-addEventListener("onDataChange", personView.render);
-addEventListener("load", personView.render);

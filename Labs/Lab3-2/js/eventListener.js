@@ -21,3 +21,6 @@ input.addEventListener("keyup", function(event) {
         document.getElementById("btn-add-person").click();
     }
 });
+
+addEventListener("load", personController.firstRun);
+addEventListener("onDataChange", personView.render);
