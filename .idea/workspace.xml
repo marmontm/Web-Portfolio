@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/css/styles-beta.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/js/scripts-beta.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Labs/portfolio.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style-desktop.css" afterPath="$PROJECT_DIR$/css/style-desktop.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +16,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Labs/portfolio.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
                   <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="531">
+                  <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -272,7 +277,7 @@
       <workItem from="1517314445388" duration="4538000" />
       <workItem from="1517574930026" duration="4194000" />
       <workItem from="1517674205913" duration="38000" />
-      <workItem from="1517674281742" duration="266000" />
+      <workItem from="1517674281742" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="Add Labs 1-2-3">
       <created>1517165422846</created>
@@ -442,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517579385537</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Improvements &#10;Lab3.3: Volume control added &#10;Homepage: Switch access portfolio button with Github link. It's more logical to put access to portfolio first (especially for visitors)">
+      <created>1517674820133</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1517674820133</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50245000" />
+    <option name="totallyTimeSpent" value="50757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="6" />
@@ -502,7 +514,8 @@
     <MESSAGE value="Lab3.2: UI improvements" />
     <MESSAGE value="Lab3.3: Added. Play-Pause working" />
     <MESSAGE value="Lab3.3: Volume control added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3.3: Volume control added" />
+    <MESSAGE value="Improvements &#10;Lab3.3: Volume control added &#10;Homepage: Switch access portfolio button with Github link. It's more logical to put access to portfolio first (especially for visitors)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improvements &#10;Lab3.3: Volume control added &#10;Homepage: Switch access portfolio button with Github link. It's more logical to put access to portfolio first (especially for visitors)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -829,14 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Labs/css/styles-beta.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -849,6 +854,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
           <folding />
         </state>
       </provider>
