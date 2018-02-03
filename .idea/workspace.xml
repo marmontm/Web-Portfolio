@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf79d942-47a6-4326-b151-1a72bf40c507" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/Labs/css/styles-beta.css" />
         <option value="$PROJECT_DIR$/css/style-desktop.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -277,7 +278,7 @@
       <workItem from="1517314445388" duration="4538000" />
       <workItem from="1517574930026" duration="4194000" />
       <workItem from="1517674205913" duration="38000" />
-      <workItem from="1517674281742" duration="778000" />
+      <workItem from="1517674281742" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="Add Labs 1-2-3">
       <created>1517165422846</created>
@@ -454,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517674820133</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Homepage: Change target for Github link">
+      <created>1517675211808</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517675211808</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50757000" />
+    <option name="totallyTimeSpent" value="50844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="6" />
@@ -515,7 +523,8 @@
     <MESSAGE value="Lab3.3: Added. Play-Pause working" />
     <MESSAGE value="Lab3.3: Volume control added" />
     <MESSAGE value="Improvements &#10;Lab3.3: Volume control added &#10;Homepage: Switch access portfolio button with Github link. It's more logical to put access to portfolio first (especially for visitors)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improvements &#10;Lab3.3: Volume control added &#10;Homepage: Switch access portfolio button with Github link. It's more logical to put access to portfolio first (especially for visitors)" />
+    <MESSAGE value="Homepage: Change target for Github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage: Change target for Github link" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -582,16 +591,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/mainstyle.css" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -855,6 +854,17 @@
         <state relative-caret-position="270">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
