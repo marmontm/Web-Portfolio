@@ -1,2 +1,29 @@
 @charset "UTF-8";
 
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contents {
+    background-color: #dddddd;
+}
+
+.header {
+    background-color: #ff0000;
+}
+
+.lab {
+      background-color: #bbbbbb;
+  }
+
+.lab-tile {
+    background-color: #0000ff;
+}
+
+.lab-space {
+    background-color: #999999;
+}
+
+.lab-tile {
+    background-color: #777777;
+}
