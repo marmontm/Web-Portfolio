@@ -23,6 +23,10 @@
     text-decoration: none;
 }
 
+.spotlight {
+    background-color: #ffb487;
+}
+
 .labitem:hover, .labitem:focus {
     background-color: #aaaaaa;
     border-color: transparent;

@@ -17,7 +17,7 @@ button {
 }
 
 .link {
-    color: #357aff;
+    color: #0d86ff ;
 }
 
 .bottom-bar {
@@ -72,6 +72,8 @@ button {
      */
     background-color: #dddddd;
     display: block;
+    align-content: center;
+    padding-bottom: 50pt;
 }
 
 .header {
@@ -92,6 +94,8 @@ button {
 
     /* Use all the width */
     display: block;
+    width: fit-content;
+    margin: auto;
   }
 
 .section-title {
