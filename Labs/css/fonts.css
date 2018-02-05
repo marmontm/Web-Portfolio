@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+
+/* San Francisco (Text) */
+
+@font-face
+{
+    font-family: "SF-Pro-Text-Regular";
+    src: url("../fonts/SF-Pro-Text-Regular.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Text-Medium";
+    src: url("../fonts/SF-Pro-Text-Medium.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Text-Bold";
+    src: url("../fonts/SF-Pro-Text-Semibold.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Text-Bold";
+    src: url("../fonts/SF-Pro-Text-Bold.otf");
+}
+
+
+/* San Francisco (Display) */
+
+@font-face
+{
+    font-family: "SF-Pro-Display-Regular";
+    src: url("../fonts/SF-Pro-Display-Regular.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Display-Medium";
+    src: url("../fonts/SF-Pro-Display-Medium.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Display-Bold";
+    src: url("../fonts/SF-Pro-Display-Semibold.otf");
+}
+
+@font-face
+{
+    font-family: "SF-Pro-Display-Bold";
+    src: url("../fonts/SF-Pro-Display-Bold.otf");
+}

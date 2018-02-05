@@ -1,42 +1,131 @@
 @charset "UTF-8";
 
+
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    /* Set default font */
+    font-family: "SF-Pro-Display-Regular", Arial, Helvetica, sans-serif;
 }
 
 body {
+    /* Avoid Left/Right scrolling */
     overflow-x: hidden;
 }
 
+button {
+    /* Put same cursor as link */
+    cursor: pointer;
+}
+
+.link {
+    color: #357aff;
+}
+
+.bottom-bar {
+    /* Always-on-top box */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: fit-content;
+
+    /* Style */
+    background-color: #fff;
+
+    /* Align elements inside
+     * 1-line + horizontal centered
+     */
+    display: inline-flex;
+    justify-content: center;
+}
+
+.btn-navbar {
+    /* Style */
+    background-color: transparent;
+    border-radius: 4px;
+
+    /* Space inside */
+    padding: 4pt 8pt;
+    margin: 4pt;
+
+    /* Put text + icon in 1 line */
+    display: inline-flex;
+
+    /* Font */
+    font-size: 12pt;
+}
+
+.btn-navbar:hover,
+.btn-navbar:focus {
+    background-color: #efefef;
+}
+
+.btn-navbar p {
+    /* Vertical center text inside button */
+    align-self: center;
+
+    /* Left/Right margin to fit with icon */
+    margin: 0 4pt;
+}
+
 .contents {
+    /* Layer: 0
+     * Scrollable area
+     */
     background-color: #dddddd;
     display: block;
 }
 
 .header {
+    /* Layer: 1
+     * Portfolio information/title
+     */
     background-color: #ff5454;
+
+    /* Use all the width */
     display: block;
 }
 
 .section {
+    /* Layer: 1
+     * Box containing 1 lab
+     */
     background-color: #bbbbbb;
+
+    /* Use all the width */
     display: block;
   }
 
 .section-title {
+    /* Layer: 2
+     * Title of section
+     */
     background-color: #4a60ff;
+
+    /* Use all the width */
     display: block;
 }
 
-.section-space {
+.section-row {
+    /* Layer: 2
+     * 1 line inside section
+     */
     background-color: #999999;
+
+    /* Display tiles in row or column with respect to device width */
     display: flex;
     flex-wrap: wrap;
+
+    /* Horiz center tiles */
     justify-content: center;
 }
 
 .tile {
+    /* Layer: 3
+     * Tiles inside section row
+     * Max: 2 tiles per row
+     */
     background-color: #777777;
+
+    /* Box definition */
     width: 292px;
     height: 365px;
     margin: 8px;
