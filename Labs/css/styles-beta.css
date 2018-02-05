@@ -4,26 +4,40 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .contents {
     background-color: #dddddd;
+    display: block;
 }
 
 .header {
-    background-color: #ff0000;
+    background-color: #ff5454;
+    display: block;
 }
 
-.lab {
-      background-color: #bbbbbb;
+.section {
+    background-color: #bbbbbb;
+    display: block;
   }
 
-.lab-tile {
-    background-color: #0000ff;
+.section-title {
+    background-color: #4a60ff;
+    display: block;
 }
 
-.lab-space {
+.section-space {
     background-color: #999999;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-.lab-tile {
+.tile {
     background-color: #777777;
+    width: 292px;
+    height: 365px;
+    margin: 8px;
 }
