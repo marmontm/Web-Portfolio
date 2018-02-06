@@ -17,7 +17,8 @@ button {
 }
 
 .link {
-    color: #0d86ff ;
+    color: #0d86ff;
+    text-decoration: none;
 }
 
 .bottom-bar {
@@ -26,9 +27,12 @@ button {
     bottom: 0;
     width: 100%;
     height: fit-content;
+    z-index: 10;
 
     /* Style */
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.75);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
     /* Align elements inside
      * 1-line + horizontal centered
@@ -83,7 +87,23 @@ button {
     background-color: #ff5454;
 
     /* Use all the width */
-    display: block;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.img-profile {
+    /* Position */
+    float: left;
+
+    /* Box */
+    max-height: 64px;
 }
 
 .section {
@@ -133,4 +153,13 @@ button {
     width: 292px;
     height: 365px;
     margin: 8px;
+}
+
+
+/* Only for large displays */
+@media screen and (min-width: 1000px)
+{
+    .large {
+        width: 487px;
+    }
 }
