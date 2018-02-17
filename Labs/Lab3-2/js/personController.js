@@ -26,8 +26,7 @@ var personController = {
     },
 
     firstRun: function () {
-        this.
-        personModel.init();
+        this.personModel.init();
         dispatchEvent(dataUpdated);
     }
 }

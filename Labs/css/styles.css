@@ -16,6 +16,7 @@
     border: 1px solid #404040;
     padding: 6pt 12pt;
     margin: 8pt 8pt;
+    opacity: 1;
 
     /* text */
     color: #404040;
@@ -28,6 +29,6 @@
 }
 
 .labitem:hover, .labitem:focus {
-    background-color: #aaaaaa;
+    opacity: .8;
     border-color: transparent;
 }

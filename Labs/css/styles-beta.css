@@ -55,11 +55,17 @@ button {
 
     /* Font */
     font-size: 12pt;
+
+    /* Animation */
+    transition-duration: .1s;
 }
 
 .btn-navbar:hover,
 .btn-navbar:focus {
     background-color: #efefef;
+
+    /* Animation */
+    transition-duration: .1s;
 }
 
 .btn-navbar p {
@@ -96,6 +102,20 @@ button {
     display: flex;
     flex-direction: column;
     align-self: center;
+
+    /* Text */
+    font-size: 12pt;
+}
+
+.header-text .title {
+    /* Text */
+    font-size: 24pt;
+    font-family: "SF-Pro-Display-Medium";
+}
+
+.header-text .information {
+    /* Text */
+    color: #7f7f7f;
 }
 
 .img-profile {
@@ -128,6 +148,20 @@ button {
     display: block;
 }
 
+.section-title .line1 {
+    /* Text */
+    font-size: 10pt;
+    color: #7F7F7F;
+    text-transform: uppercase;
+}
+
+.section-title .line2 {
+    /* Text */
+    font-size: 20pt;
+    font-family: "SF-Pro-Display-Medium";
+    color: #000;
+}
+
 .section-row {
     /* Layer: 2
      * 1 line inside section
@@ -153,6 +187,33 @@ button {
     width: 292px;
     height: 365px;
     margin: 8px;
+
+    /* Animation */
+    -webkit-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -moz-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -o-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000); /* easeOutQuint */
+
+    -webkit-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -moz-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -o-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000); /* easeOutQuint */
+}
+
+.tile:focus,
+.tile:hover {
+    transform: scale(.95);
+
+    /* Animation */
+    -webkit-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -moz-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -o-transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    transition: all 500ms cubic-bezier(0.230, 1.000, 0.320, 1.000); /* easeOutQuint */
+
+    -webkit-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -moz-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    -o-transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000);
+    transition-timing-function: cubic-bezier(0.230, 1.000, 0.320, 1.000); /* easeOutQuint */
 }
 
 
