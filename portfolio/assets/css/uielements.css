@@ -6,11 +6,6 @@
     src: url('../../../assets/fonts/SF-Pro-Display-Regular.otf');
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #e6e6e6;
-}
 
 a {
     /* Remove automatic underline for links */
@@ -22,9 +17,9 @@ a:focus {
     color: #2a3c99;
 }
 
-button {
+.btn-access {
     /* Box */
-    margin: 4pt 4pt;
+    margin: 4pt 4pt 16pt 4pt;
     padding: 6pt 16pt;
     background-color: #4a60ff;
     border-color: transparent;
@@ -35,8 +30,8 @@ button {
     font-size: 14pt;
 }
 
-button:hover,
-button:focus {
+.btn-access:hover,
+.btn-access:focus {
     background-color: #2a3c99;
 }
 

@@ -6,6 +6,13 @@
     letter-spacing: 0.2px;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6;
+}
+
+
 .contents {
     padding: 80px 16pt 16pt 16pt;
     max-width: 1024px;
@@ -16,7 +23,7 @@
 @media screen and (min-width: 1025px){
     .contents {
         /* h-offset v-offset blur spread color */
-        box-shadow: 0 110px 80px 20px rgba(128, 128, 128, 0.7);
+        box-shadow: 0 0 80px 20px rgba(128, 128, 128, 0.7);
     }
 }
 
@@ -31,6 +38,7 @@ h2 {
     padding-left: 25px;
     font-family: "SF-Pro-Display-Medium";
     font-size: 16pt;
+    margin-top: 16pt;
     margin-bottom: 16pt;
 }
 
