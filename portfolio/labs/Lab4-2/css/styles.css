@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#drawing {
+    background-color: lightgrey;
+}
+
+.var {
+    color: #c82333;
+    font-weight: bold;
+}

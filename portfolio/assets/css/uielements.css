@@ -9,10 +9,51 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #485c9b;
+    background-color: #e6e6e6;
 }
 
 a {
     /* Remove automatic underline for links */
     text-decoration: none;
+    color: #4a60ff;
+}
+a:hover,
+a:focus {
+    color: #2a3c99;
+}
+
+button {
+    /* Box */
+    margin: 4pt 4pt;
+    padding: 6pt 16pt;
+    background-color: #4a60ff;
+    border-color: transparent;
+    border-radius: 50px;
+
+    /* Text */
+    color: #ffffff;
+    font-size: 14pt;
+}
+
+button:hover,
+button:focus {
+    background-color: #2a3c99;
+}
+
+.btn-goback {
+    /* Box */
+    margin: 8pt 8pt;
+    padding: 6pt 16pt;
+    background-color: #4a60ff;
+    border-color: transparent;
+    border-radius: 50px;
+
+    /* Text */
+    color: #ffffff;
+    font-size: 14pt;
+}
+
+.btn-goback:hover,
+.btn-goback:focus {
+    background-color: #2a3c99;
 }
