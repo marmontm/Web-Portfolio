@@ -28,11 +28,17 @@ a:focus {
     /* Text */
     color: #ffffff;
     font-size: 14pt;
+
+    transition: all;
+    transition-duration: 0.15s;
 }
 
 .btn-access:hover,
 .btn-access:focus {
     background-color: #2a3c99;
+
+    transition: all;
+    transition-duration: 0.15s;
 }
 
 .btn-goback {
@@ -46,9 +52,15 @@ a:focus {
     /* Text */
     color: #ffffff;
     font-size: 14pt;
+
+    transition: all;
+    transition-duration: 0.15s;
 }
 
 .btn-goback:hover,
 .btn-goback:focus {
     background-color: #2a3c99;
+
+    transition: all;
+    transition-duration: 0.15s;
 }

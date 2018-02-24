@@ -12,6 +12,8 @@ body {
 
     overflow: hidden;
     background-color: #333;
+
+    box-shadow: 0 0 17px 5px rgba(128, 128, 128, 0.7);
 }
 
 .topnav a {
@@ -22,16 +24,22 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+
+    transition: all;
+    transition-duration: 0.15s;
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #777;
+    color: white !important;
+
+    transition: all;
+    transition-duration: 0.15s;
 }
 
 .active {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #ddd;
+    color: black !important;
 }
 
 .topnav .icon {
@@ -61,5 +69,39 @@ body {
 }
 
 .home-link {
-    background-color: #485c9b;
+    background: linear-gradient(to bottom right, #4a60ff, #41bae7);
+    color: #fff;
 }
+
+
+
+/*
+.topnav {
+    z-index: 99;
+    position: fixed;
+    width: 100%;
+
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+*/

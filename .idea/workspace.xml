@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c41fe736-e986-47eb-8b67-90335e7a0980" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab1.html" afterPath="$PROJECT_DIR$/portfolio/lab1.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab2.html" afterPath="$PROJECT_DIR$/portfolio/lab2.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab3.html" afterPath="$PROJECT_DIR$/portfolio/lab3.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab4.html" afterPath="$PROJECT_DIR$/portfolio/lab4.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab3-1/index.html" afterPath="$PROJECT_DIR$/portfolio/labs/Lab3-1/index.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,11 +51,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="uielements.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="uielements.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="311">
-                  <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+                <state relative-caret-position="628">
+                  <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -69,18 +64,18 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                <state relative-caret-position="-127">
+                  <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles-menu.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="styles-menu.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles-menu.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="630">
-                  <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -126,17 +121,17 @@
         <option value="$PROJECT_DIR$/portfolio/labs/Lab2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-3/index.html" />
-        <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-1/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio/lab1.html" />
-        <option value="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
         <option value="$PROJECT_DIR$/portfolio/lab2.html" />
         <option value="$PROJECT_DIR$/portfolio/lab3.html" />
         <option value="$PROJECT_DIR$/portfolio/lab4.html" />
+        <option value="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
+        <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
       </list>
     </option>
   </component>
@@ -280,7 +275,7 @@
       <updated>1519284602408</updated>
       <workItem from="1519284603693" duration="7851000" />
       <workItem from="1519305751390" duration="1454000" />
-      <workItem from="1519500691618" duration="11306000" />
+      <workItem from="1519500691618" duration="13584000" />
     </task>
     <task id="LOCAL-00001" summary="Renew project hierarchy">
       <created>1519288328058</created>
@@ -331,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519512965872</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update 1">
+      <created>1519513969057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1519513969057</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20611000" />
+    <option name="totallyTimeSpent" value="22889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
@@ -395,7 +397,8 @@
     <MESSAGE value="Added to portfolio: Lab 4" />
     <MESSAGE value="Fix text spacing" />
     <MESSAGE value="Portfolio now in RC channel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Portfolio now in RC channel" />
+    <MESSAGE value="Update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,13 +487,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style-mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style-desktop.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -606,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -634,14 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -710,10 +690,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-desktop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="95" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles-menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
           <folding />
         </state>
       </provider>
