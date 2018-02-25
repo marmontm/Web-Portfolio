@@ -3,6 +3,11 @@ var myContext = myCanvas.getContext("2d");
 var lblScore = document.getElementById("score");
 var lblRemainingTime = document.getElementById("remaining-time");
 var myGame = null;
+var myTarget = null;
+var positionCursor = {
+    x: 0,
+    y: 0
+};
 
 function Target(posX, posY, sizeX, sizeY) {
     this.posX = posX;
@@ -13,6 +18,7 @@ function Target(posX, posY, sizeX, sizeY) {
 
 function Game(timeSec) {
     this.remainingTime = timeSec;
+    this.score = 0;
     this.myTimer = null;
     this.isPlaying = false;
 
@@ -40,16 +46,46 @@ function Game(timeSec) {
             this.stop();
         }
         this.remainingTime = 10;
+    };
+
+    this.increaseScore = function (){
+        this.score++;
     }
 }
 
-myCanvas.addEventListener("click", function () {
+myCanvas.addEventListener("click", function (ev) {
     if (myGame != null) {
         if (myGame.isPlaying){
-            // check if cursor is on target
+            positionCursor = getCursorPos(ev);
+            if(
+                ((myTarget.posX <= positionCursor.x)&&(positionCursor <= (myTarget.posX + myTarget.sizeX)))
+                && ((myTarget.posY <= positionCursor.y)&&(positionCursor <= (myTarget.posY + myTarget.sizeY)))
+            ){
+                myGame.increaseScore();
+                clearContext();
+            }
         }
         else {
-
+            myGame = new Game(10);
+            myGame.play();
         }
     }
-};
+    else {
+        myGame = new Game(10);
+        myGame.play();
+    }
+});
+
+
+/* Returns current position of cursor in canvas */
+function getCursorPos(event){
+    var rect = myCanvas.getBoundingClientRect();
+    return {
+        x: event.clientX - rect.left,
+        y: event.clientY - rect.top
+    }
+}
+
+function clearContext() {
+    myContext.clearRect(0, 0, myCanvas.width, myCanvas.height);
+}
