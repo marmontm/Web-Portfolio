@@ -44,7 +44,7 @@ function Game(timeSec) {
 }
 
 myCanvas.addEventListener("click", function () {
-    if (myGame != "") {
+    if (myGame != null) {
         if (myGame.isPlaying){
             // check if cursor is on target
         }
