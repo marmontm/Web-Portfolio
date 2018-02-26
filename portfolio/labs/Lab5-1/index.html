@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Lab3.2 - Local storage</title>
+
+        <link rel="stylesheet" type="text/css" href="../../assets/css/uielements.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    </head>
+    <body>
+    <button class="btn-goback" onclick="location.href='../../lab3.html'">< Back to portfolio</button>
+
+    <h1>Lab3.2</h1>
+    <h2>Person list</h2>
+        <div class="add-person">
+            <div class="field title">Name:</div>
+            <input class="field" id="person-name" tabindex="1" placeholder="Enter your name...">
+            <button class="button" id="btn-add-person" onclick="personController.addPerson()" tabindex="2">Add person</button>
+            <button class="button warn" id="btn-del-person" onclick="personController.delPerson()" tabindex="3">Delete selection</button>
+            <button class="button warn" id="btn-reset" onclick="personController.clearList()" tabindex="3">Clear all</button>
+        </div>
+        <p id="list"></p>
+
+    <script type="text/javascript" src="js/personModel.js"></script>
+    <script type="text/javascript" src="js/personView.js"></script>
+    <script type="text/javascript" src="js/personController.js"></script>
+    <script type="text/javascript" src="js/eventListener.js"></script>
+    </body>
+</html>

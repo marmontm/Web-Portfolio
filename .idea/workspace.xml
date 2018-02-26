@@ -2,10 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c41fe736-e986-47eb-8b67-90335e7a0980" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-ipad-9-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-iphone-7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-macbook-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/AUTHORS.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/jsonp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/load.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/parseXML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/location.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/nonce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/rquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/xhr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/attr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/classes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/prop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/val.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/callbacks.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/DOMEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/access.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/camelCase.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/nodeName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/parseHTML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/ready-no-deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/ready.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/readyException.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/stripAndCollapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/toType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/var/rsingleTag.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/addGetHookIf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/adjustCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/curCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/showHide.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/cssExpand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/getStyles.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/rboxStyle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/rnumnonpx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/swap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/Data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/acceptData.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/dataPriv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/dataUser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deferred/exceptionHook.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deprecated.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/dimensions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects/Tween.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects/animatedSelector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/alias.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/focusin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/trigger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/exports/amd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/exports/global.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/_evalUrl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/buildFragment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/getAll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/setGlobalEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rscriptType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rtagName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/wrapMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/offset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/queue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/queue/delay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector-native.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector-sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/serialize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/findFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/dir.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/rneedsContext.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/siblings.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/ObjectFunctionString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/arr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/class2type.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/concat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/document.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/documentElement.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/fnToString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/getProto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/hasOwn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/indexOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/isFunction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/isWindow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/pnum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/push.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/rcssNum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/rnothtmlwhite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/slice.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/toString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/wrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/lab5.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/lab6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/css/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/eventListener.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personModel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personModel.volatile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personView.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab4.html" afterPath="$PROJECT_DIR$/portfolio/lab4.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab1.html" afterPath="$PROJECT_DIR$/portfolio/lab1.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab2.html" afterPath="$PROJECT_DIR$/portfolio/lab2.html" />
       <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +159,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5569285">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+                <state relative-caret-position="120">
+                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="lab5.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="446">
+                  <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
@@ -35,8 +186,8 @@
           <file leaf-file-name="uielements.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="74" column="18" lean-forward="false" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+                <state relative-caret-position="598">
+                  <caret line="75" column="24" lean-forward="false" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -45,8 +196,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="248">
-                  <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+                <state relative-caret-position="418">
+                  <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -108,15 +259,17 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
-        <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/lab1.html" />
-        <option value="$PROJECT_DIR$/portfolio/lab2.html" />
         <option value="$PROJECT_DIR$/portfolio/lab3.html" />
-        <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/lab4.html" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
+        <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
+        <option value="$PROJECT_DIR$/portfolio/lab5.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab1.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab6.html" />
+        <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/portfolio/lab2.html" />
       </list>
     </option>
   </component>
@@ -183,26 +336,6 @@
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="labs" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -218,12 +351,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="jquery&#9;FILE&#9;file:///Users/maxime/Desktop/Oulu OAMK/ICT Web (Spring-2018)/Interactive Multimedia/Portfolio/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/labs" />
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$/portfolio/assets/css" />
-      <recent name="$PROJECT_DIR$/portfolio/labs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,7 +389,7 @@
       <workItem from="1519305751390" duration="1454000" />
       <workItem from="1519500691618" duration="15443000" />
       <workItem from="1519565661960" duration="41000" />
-      <workItem from="1519576795503" duration="7654000" />
+      <workItem from="1519576795503" duration="13689000" />
     </task>
     <task id="LOCAL-00001" summary="Renew project hierarchy">
       <created>1519288328058</created>
@@ -355,20 +489,29 @@
       <option name="project" value="LOCAL" />
       <updated>1519577648170</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update3: Lab4 - Canvas game">
+      <created>1519597502285</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1519597502285</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32443000" />
+    <option name="totallyTimeSpent" value="38478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -380,7 +523,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -405,7 +547,8 @@
     <MESSAGE value="Update 2.3: Design improvements" />
     <MESSAGE value="Update 2.4: Design improvements" />
     <MESSAGE value="(Backup)" />
-    <option name="LAST_COMMIT_MESSAGE" value="(Backup)" />
+    <MESSAGE value="Update3: Lab4 - Canvas game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update3: Lab4 - Canvas game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,38 +557,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="18" lean-forward="false" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles-menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/lab4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -467,7 +578,7 @@
         <state relative-caret-position="810">
           <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -516,7 +627,7 @@
         <state relative-caret-position="615">
           <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -621,13 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="9" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -687,39 +791,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="74" column="18" lean-forward="false" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -752,7 +827,7 @@
         <state relative-caret-position="-797">
           <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -781,18 +856,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/portfolio/lab3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="337">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="9" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/uielements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="75" column="24" lean-forward="false" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="418">
+          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="76" column="88" lean-forward="false" selection-start-line="76" selection-start-column="88" selection-end-line="76" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
           <folding />
         </state>
       </provider>

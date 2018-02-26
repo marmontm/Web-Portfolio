@@ -16,7 +16,7 @@ body {
 .contents {
     padding: 80px 16pt 16pt 16pt;
     max-width: 1024px;
-    margin: 0 auto;
+    margin: 0 auto 48pt auto;
     background-color: #fafafa;
 }
 
@@ -64,7 +64,33 @@ p {
 }
 
 .footer {
+    font-size: 10pt;
     text-align: center;
     color: #999999;
-    margin: 24pt auto;
+    margin: 24pt auto 8pt auto;
+}
+
+.image-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-row img {
+    max-height: 300px;
+    max-width: 280px;
+    box-shadow: 0 0 8px 1px rgba(128, 128, 128, 0.7);
+    margin: 16pt 8pt 4pt 8pt;
+}
+
+.image-100 img {
+    width: 100%;
+    box-shadow: 0 0 8px 1px rgba(128, 128, 128, 0.7);
+    margin: 16pt auto 4pt auto;
+}
+
+figure p {
+    font-size: 10pt;
+    text-align: center;
 }
