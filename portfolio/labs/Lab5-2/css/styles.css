@@ -9,7 +9,7 @@ body {
     color: #ffffff;
 }
 
-.add-person {
+.form {
     display: block;
     align-items: center;
 }
@@ -55,6 +55,17 @@ input {
 #list {
     font-size: 14pt;
     padding: 12pt;
-    color: #ffffff;
-    background-color: #404040;
+    color: #404040;
+    background-color: #fff;
+}
+
+.person-item {
+    width: 12pt;
+    height: 12pt;
+    margin-right: 8pt;
+}
+
+.warn {
+    /* Box */
+    background-color: #810400;
 }

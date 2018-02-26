@@ -23,7 +23,8 @@ button {
 
 .btn-access {
     /* Box */
-    margin: 4pt 4pt 16pt 4pt;
+    display: flex;
+    margin: 16pt auto;
     padding: 6pt 16pt;
     background-color: #4a60ff;
     border-color: transparent;

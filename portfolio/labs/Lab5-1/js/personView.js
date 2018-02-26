@@ -9,7 +9,20 @@ var personView = {
             var myName = personModel.getItem(i);
 
             if (myName != null) {
-                itemList.innerHTML += "<input class=\"person-item\" id=\"item" + i + "\" type=\"checkbox\" value=\"" + i + "\"><label for=\"item" + i + "\">" + myName + "</label><br>";
+                // Classic JS:
+                // itemList.innerHTML += "<input class=\"person-item\" id=\"item" + i + "\" type=\"checkbox\" value=\"" + i + "\"><label for=\"item" + i + "\">" + myName + "</label><br>";
+
+                // With jQuery:
+                $("<input type='checkbox' class='person-item' />")
+                    .attr("id", "item" + i)
+                    .attr("value", i)
+                    .appendTo("#list");
+
+                $("<label /><br>")
+                    .attr("for", "item" + i)
+                    .html(myName)
+                    .appendTo("#list");
+
             }
 
         }

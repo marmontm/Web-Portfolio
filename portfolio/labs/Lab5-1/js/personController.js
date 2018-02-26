@@ -1,5 +1,5 @@
 var newPersonInput = document.getElementById("person-name");
-var personItems = document.getElementsByClassName("person-item");
+// var personItems = document.getElementsByClassName("person-item"); // Only used with classic JS
 var dataUpdated = new Event("onDataChange");
 
 var personController = {
@@ -12,11 +12,18 @@ var personController = {
     },
 
     delPerson: function () {
-        for (var i = 0; i < personItems.length; i++){
-            if (personItems[i].checked){
-                personModel.delItem(personItems[i].value);
-            }
-        }
+        // Classic JS:
+        // for (var i = 0; i < personItems.length; i++){
+        //     if (personItems[i].checked){
+        //         personModel.delItem(personItems[i].value);
+        //     }
+        // }
+
+        // With jQuery:
+        $(".person-item:checkbox:checked").each(function (index) {
+            personModel.delItem($(this).attr("value"));
+        });
+
         dispatchEvent(dataUpdated);
     },
 
@@ -26,7 +33,7 @@ var personController = {
     },
 
     firstRun: function () {
-        this.personModel.init();
+        personModel.init();
         dispatchEvent(dataUpdated);
     }
 }

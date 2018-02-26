@@ -41,15 +41,22 @@
         <p>Maybe we could use jQuery to select the elements when we want to delete some items.</p>
 
         <h3>d. What are CDNs? What kind of benefits you get if you use them?</h3>
-        <p></p>
+        <p>CDNs, for Content Delivery Networks, are geographically distributed networks of proxy servers and their data centers [Wikipedia]. They permit the developer to include remote scripts and run them in its own web page.<br><br>
+            For example, if the developer want to include a framework (like jQuery, Bootstrap, Tween...), he can either download the script, so this will be locally available on his website but not up-to-date,
+            or link the remote script and will be always up-to-date.<br><br>
+            The most advantage to do that is that the framework is always up-to-date and permits the developer to save space by non including third-part packages,
+            but the main drawback is that his webpage is dependent of the remote server, so if this stop working, his webpage will also do, or if the server is hack and the script is replaced by a malware, he also will be affected.
+        </p>
 
         <h2>2. Person list with jQuery</h2>
-        <p>Take again our person list, and use jQuery when applicable.</p>
-        <button class="btn-access disabled" onclick="location.href='labs/Lab5-1/'">Access person list</button>
+        <p>Take again our person list, and use jQuery when applicable.<br>
+            Indeed, I replaced classic JS by jQuery when displaying all elements (in personView) and when looking for checked checkboxes to delete selected elements (in personController).
+        </p>
+        <button class="btn-access" onclick="location.href='labs/Lab5-1/'">Access person list</button>
 
         <h2>3. Use AJAX and JSON to display a contact list</h2>
         <p>Use jQuery and AJAX to read a JSON file which contains a list of persons with their own email address.</p>
-        <button class="btn-access disabled" onclick="location.href='labs/Lab5-2/'">Access AJAX contact</button>
+        <button class="btn-access" onclick="location.href='labs/Lab5-2/'">Access AJAX contact</button>
 
 
 

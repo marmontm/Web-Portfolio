@@ -56,13 +56,6 @@ p {
     text-align: justify;
 }
 
-.btn-access {
-    margin-bottom: 16pt;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
 .footer {
     font-size: 10pt;
     text-align: center;

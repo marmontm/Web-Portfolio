@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Lab6 - Flickr API</title>
+
+        <link rel="stylesheet" type="text/css" href="../../assets/css/uielements.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+    </head>
+    <body>
+    <button class="btn-goback" onclick="location.href='../../lab6.html'">< Back to portfolio</button>
+
+    <h1>Lab6 - Flickr photo wall</h1>
+        <div class="form">
+            <div class="field title">Name:</div>
+            <input class="field" id="tb-search" tabindex="1" placeholder="Enter keywords...">
+            <button class="button" id="btn-search" onclick="personController.addPerson()" tabindex="2">Search</button>
+        </div>
+        <p id="list"></p>
+
+    <script type="text/javascript" src="../../../assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    </body>
+</html>
