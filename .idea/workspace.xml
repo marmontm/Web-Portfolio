@@ -3,16 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c41fe736-e986-47eb-8b67-90335e7a0980" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab5-2/index.html" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-2/index.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab6/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/labs/Lab6/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab6/index.html" afterPath="$PROJECT_DIR$/portfolio/labs/Lab6/index.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab6/js/script.js" afterPath="$PROJECT_DIR$/portfolio/labs/Lab6/js/script.js" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/_backup/portfolio.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/_backup/scripts-beta.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/_backup/styles-beta.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/assets/css/styles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/assets/js/scripts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab1.html" afterPath="$PROJECT_DIR$/portfolio/lab1.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab2.html" afterPath="$PROJECT_DIR$/portfolio/lab2.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab3.html" afterPath="$PROJECT_DIR$/portfolio/lab3.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab4.html" afterPath="$PROJECT_DIR$/portfolio/lab4.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab5.html" afterPath="$PROJECT_DIR$/portfolio/lab5.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab6.html" afterPath="$PROJECT_DIR$/portfolio/lab6.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +18,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lab1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="75" column="8" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="76" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio/lab6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,14 +123,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
-        <option value="$PROJECT_DIR$/portfolio/lab3.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
-        <option value="$PROJECT_DIR$/portfolio/lab4.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
-        <option value="$PROJECT_DIR$/portfolio/lab1.html" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/lab2.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css" />
@@ -83,17 +136,21 @@
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personController.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personView.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab1/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/lab5.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/eventListener.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js" />
-        <option value="$PROJECT_DIR$/portfolio/lab6.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/js/eventListener.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/eventListener.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/js/script.js" />
+        <option value="$PROJECT_DIR$/portfolio/lab1.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab2.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab3.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab4.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab5.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab6.html" />
       </list>
     </option>
   </component>
@@ -214,7 +271,7 @@
       <workItem from="1519305751390" duration="1454000" />
       <workItem from="1519500691618" duration="15443000" />
       <workItem from="1519565661960" duration="41000" />
-      <workItem from="1519576795503" duration="27371000" />
+      <workItem from="1519576795503" duration="28011000" />
     </task>
     <task id="LOCAL-00001" summary="Renew project hierarchy">
       <created>1519288328058</created>
@@ -342,16 +399,24 @@
       <option name="project" value="LOCAL" />
       <updated>1519621646879</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update6: Add Lab 6 completed">
+      <created>1519624499601</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1519624499601</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52160000" />
+    <option name="totallyTimeSpent" value="52800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -416,7 +481,8 @@
     <MESSAGE value="Update4" />
     <MESSAGE value="Update4.1" />
     <MESSAGE value="Update5: Add Lab 5 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update5: Add Lab 5 completed" />
+    <MESSAGE value="Update6: Add Lab 6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update6: Add Lab 6 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,16 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/live_coding/2018_1_29-Canvas/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -539,30 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -585,14 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="50" column="162" lean-forward="false" selection-start-line="50" selection-start-column="162" selection-end-line="50" selection-end-column="162" />
           <folding />
         </state>
       </provider>
@@ -693,26 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab5-2/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/lab6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -827,6 +835,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="75" column="8" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="76" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/lab6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
           <folding />
         </state>
       </provider>
