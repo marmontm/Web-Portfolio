@@ -8,6 +8,28 @@ $(document).ready(function () {
     });
 
     $("#btn-search").click(function (ev) {
-        // Perform search
+        clearWall();
+
+        var query = $("#tb-search").val();
+        console.log(query);
+
+        $.ajax({
+            url: 'https://api.flickr.com/services/feeds/photos_public.gne',
+            dataType: 'jsonp',
+            data: {
+                "tags": query,
+                "format": "json" }
+        });
     })
 });
+
+// Callback function from Flickr
+function jsonFlickrFeed(json) {
+    $.each(json.items, function(i, item) {
+        $("<img />").attr("src", item.media.m).appendTo("#wall");
+    });
+}
+
+function clearWall(){
+    $("#wall").html("");
+}
