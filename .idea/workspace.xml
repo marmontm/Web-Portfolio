@@ -2,151 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c41fe736-e986-47eb-8b67-90335e7a0980" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-ipad-9-7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-iphone-7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-0-macbook-13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/example-rwd-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/AUTHORS.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/core.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.slim.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/jsonp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/load.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/parseXML.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/location.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/nonce.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/var/rquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/ajax/xhr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/attr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/classes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/prop.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/attributes/val.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/callbacks.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/DOMEval.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/access.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/camelCase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/nodeName.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/parseHTML.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/ready-no-deferred.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/ready.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/readyException.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/stripAndCollapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/toType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/core/var/rsingleTag.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/addGetHookIf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/adjustCSS.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/curCSS.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/showHide.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/cssExpand.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/getStyles.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/rboxStyle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/rnumnonpx.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/css/var/swap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/Data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/acceptData.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/dataPriv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/data/var/dataUser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deferred.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deferred/exceptionHook.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/deprecated.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/dimensions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects/Tween.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/effects/animatedSelector.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/ajax.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/alias.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/focusin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/event/trigger.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/exports/amd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/exports/global.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/_evalUrl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/buildFragment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/getAll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/setGlobalEval.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rscriptType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/var/rtagName.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/manipulation/wrapMap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/offset.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/queue.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/queue/delay.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector-native.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector-sizzle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/selector.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/serialize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/findFilter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/dir.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/rneedsContext.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/traversing/var/siblings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/ObjectFunctionString.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/arr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/class2type.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/concat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/document.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/documentElement.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/fnToString.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/getProto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/hasOwn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/indexOf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/isFunction.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/isWindow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/pnum.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/push.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/rcssNum.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/rnothtmlwhite.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/slice.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/support.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/var/toString.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/src/wrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/lab5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/lab6.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/css/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/eventListener.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personModel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personModel.volatile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personView.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" afterPath="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab1.html" afterPath="$PROJECT_DIR$/portfolio/lab1.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab2.html" afterPath="$PROJECT_DIR$/portfolio/lab2.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lab5.html" afterPath="$PROJECT_DIR$/portfolio/lab5.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -172,8 +30,8 @@
           <file leaf-file-name="lab5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="446">
-                  <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+                <state relative-caret-position="569">
+                  <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -196,8 +54,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+                <state relative-caret-position="358">
+                  <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -265,11 +123,11 @@
         <option value="$PROJECT_DIR$/portfolio/lab4.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
-        <option value="$PROJECT_DIR$/portfolio/lab5.html" />
         <option value="$PROJECT_DIR$/portfolio/lab1.html" />
         <option value="$PROJECT_DIR$/portfolio/lab6.html" />
-        <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/lab2.html" />
+        <option value="$PROJECT_DIR$/portfolio/lab5.html" />
+        <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
       </list>
     </option>
   </component>
@@ -389,7 +247,7 @@
       <workItem from="1519305751390" duration="1454000" />
       <workItem from="1519500691618" duration="15443000" />
       <workItem from="1519565661960" duration="41000" />
-      <workItem from="1519576795503" duration="13689000" />
+      <workItem from="1519576795503" duration="14910000" />
     </task>
     <task id="LOCAL-00001" summary="Renew project hierarchy">
       <created>1519288328058</created>
@@ -496,17 +354,24 @@
       <option name="project" value="LOCAL" />
       <updated>1519597502285</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update4">
+      <created>1519604637902</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1519604637902</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38478000" />
+    <option name="totallyTimeSpent" value="39699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -525,6 +390,26 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -548,7 +433,8 @@
     <MESSAGE value="Update 2.4: Design improvements" />
     <MESSAGE value="(Backup)" />
     <MESSAGE value="Update3: Lab4 - Canvas game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update3: Lab4 - Canvas game" />
+    <MESSAGE value="Update4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -914,14 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/lab2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="933">
@@ -940,8 +818,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/lab5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state relative-caret-position="569">
+          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding />
         </state>
       </provider>
