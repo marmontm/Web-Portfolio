@@ -17,8 +17,8 @@ connection.onopen = function() {
 }
 
 connection.onerror = function () {
-    connectionstate.innerHTML = "Waiting...";
-    connectionstate.className = "waiting";
+    connectionstate.innerHTML = "Disconnected";
+    connectionstate.className = "error";
 }
 
 

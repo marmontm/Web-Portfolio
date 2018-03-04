@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c41fe736-e986-47eb-8b67-90335e7a0980" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/portfolio/lab2.html" afterPath="$PROJECT_DIR$/portfolio/lab2.html" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab3-1/js/scripts.js" afterPath="$PROJECT_DIR$/portfolio/labs/Lab3-1/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" afterPath="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js" afterPath="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,19 +57,14 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles-menu.css" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/uielements.css" />
         <option value="$PROJECT_DIR$/portfolio/assets/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab3-2/js/personController.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personController.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personView.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab1/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/css/styles.css" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/eventListener.js" />
-        <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/js/eventListener.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-1/js/eventListener.js" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/css/styles.css" />
@@ -85,6 +85,12 @@
         <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/index.html" />
         <option value="$PROJECT_DIR$/portfolio/labs/Lab6/index.html" />
         <option value="$PROJECT_DIR$/portfolio/lab2.html" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/js/scripts.js" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css" />
+        <option value="$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css" />
       </list>
     </option>
   </component>
@@ -134,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -167,6 +173,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="jquery&#9;FILE&#9;file:///Users/maxime/Desktop/Oulu OAMK/ICT Web (Spring-2018)/Interactive Multimedia/Portfolio/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -206,7 +213,9 @@
       <workItem from="1519500691618" duration="15443000" />
       <workItem from="1519565661960" duration="41000" />
       <workItem from="1519576795503" duration="28884000" />
-      <workItem from="1519626270560" duration="100000" />
+      <workItem from="1519626270560" duration="264000" />
+      <workItem from="1519632257940" duration="733000" />
+      <workItem from="1520200530905" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="Renew project hierarchy">
       <created>1519288328058</created>
@@ -355,16 +364,23 @@
       <option name="project" value="LOCAL" />
       <updated>1519626065598</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update6.3: Final update 2">
+      <created>1519626380409</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1519626380409</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53773000" />
+    <option name="totallyTimeSpent" value="55167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="830" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19170243" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -432,7 +448,8 @@
     <MESSAGE value="Update6: Add Lab 6 completed" />
     <MESSAGE value="Update6.1: Final update" />
     <MESSAGE value="Update6.2: Final update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update6.2: Final update 1" />
+    <MESSAGE value="Update6.3: Final update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update6.3: Final update 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -441,7 +458,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/menu.html" />
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab1/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -490,20 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-797">
-          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/live_coding/2018_2_05-jQuery/node_modules/jquery/dist/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -515,27 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -600,13 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab5-1/js/personController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -632,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,13 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -727,20 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -769,6 +721,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
           <caret line="89" column="48" lean-forward="false" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="75" lean-forward="false" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="49" lean-forward="false" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab5-2/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab3-1/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="92" column="20" lean-forward="true" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-2/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="46" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/labs/Lab4-1/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>

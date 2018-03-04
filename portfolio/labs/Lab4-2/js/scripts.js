@@ -85,6 +85,8 @@ function stopGame(){
     updateUI();
 
     console.log("Game stopped");
+
+    alert("Game over!\nYour score: " + score.toString());
 }
 
 function tick() {

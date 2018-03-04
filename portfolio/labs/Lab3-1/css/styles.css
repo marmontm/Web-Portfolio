@@ -56,6 +56,10 @@ body {
     background-color: #459132;
 }
 
+.error {
+    background-color: #c82333;
+}
+
 input {
     color: #000000;;
     padding: 10px 5px;

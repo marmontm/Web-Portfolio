@@ -6,6 +6,7 @@
 $(document).ready(function () {
     $("#btn-ajax").click(function () {
         clearList();
+        displayWaiting();
         var jsonURL = "https://imp-portfolio-demonstration.herokuapp.com/json/persons.jsonp";
         $.ajax({
             type: 'GET',
@@ -17,6 +18,7 @@ $(document).ready(function () {
 
 function jsonCallback(json) {
     console.log(json);
+    clearList();
     json.forEach(function (item) {
         addItem(item.name, item.email);
     });
@@ -35,4 +37,8 @@ function addItem(name, email) {
 
 function clearList(){
     $("#list").html("");
+}
+
+function displayWaiting() {
+    $("#list").html("Waiting for response...");
 }
